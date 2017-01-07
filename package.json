@@ -18,9 +18,7 @@
     "disabled",
     "indeterminate"
   ],
-  "main": [
-    "./icheck.min.js"
-  ],
+  "main": "./icheck.min.js",
   "dependencies": {
     "jquery": ">=1.7"
   },
